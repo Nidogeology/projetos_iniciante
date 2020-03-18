@@ -2,8 +2,8 @@ import random
 from datetime import date
 
 def randomroutine():
-    exercises1 = ["Flexão de braço", "Panturrilha", "Polichinelo", "Agachamento", "Abdominal supra"]
-    exercises2 = ["Abdominal Infra", "Joelho alto", "Climber", "Passada", "Salto"]
+    exercises1 = ["100 Flexão de braço", "100 Panturrilha", "400 Polichinelo", "200 Agachamento", "200 Abdominal supra"]
+    exercises2 = ["200 Abdominal Infra", "400 Joelho alto", "100 Climber", "200 Passada", "100 Salto"]
     a0 = int(len(exercises1))
     b0 = int(len(exercises2))
     a = exercises1
